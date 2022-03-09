@@ -1,0 +1,26 @@
+.mdl-layout__content {
+  padding-left: 100pt;
+  padding-right: 100pt;
+  padding-top: 100pt;
+}
+
+p {
+  color: black;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.5rem;
+}
+
+h1 {
+  color: darkseagreen;
+  font-family: newtimesroman;
+  font-size: 60%;
+}
+p {
+  color: black;
+  font-family: courier;
+  font-size: 160%;
+}
+
+body {
+  background-color: powderblue;
+}
